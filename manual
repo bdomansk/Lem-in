@@ -1,0 +1,9 @@
+usage:	./lem-in [-helcsafm] [< input_file]
+	-h see the usage
+	-m turn on musical accompaniment
+	-e errors management
+	-l show leaks
+	-c enable colors
+	-s turn on the "step by step" mode
+	-a show all the ways
+	-f show the fastest way
